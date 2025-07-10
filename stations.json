@@ -1,0 +1,42 @@
+
+[
+  {
+    "id": "ST-1001",
+    "name": "City Mall Charging Station",
+    "city": "Ahmedabad",
+    "latitude": 23.03,
+    "longitude": 72.54,
+    "connectors": [
+      {
+        "id": "CON-001",
+        "type": "Type 2",
+        "power_kW": 22
+      },
+      {
+        "id": "CON-002",
+        "type": "CCS",
+        "power_kW": 50
+      }
+    ]
+  },
+  {
+    "id": "ST-1002",
+    "name": "Highway Rest Stop",
+    "city": "Vadodara",
+    "latitude": 22.30,
+    "longitude": 73.19,
+    "connectors": [
+      {
+        "id": "CON-003",
+        "type": "CHAdeMO",
+        "power_kW": 50
+      },
+      {
+        "id": "CON-004",
+        "type": "Type 2",
+        "power_kW": 43
+      }
+    ]
+  }
+]
+
